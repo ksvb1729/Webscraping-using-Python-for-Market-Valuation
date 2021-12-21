@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ksvb1729
+- 👋 Hi, I’m Vijay Balaji @ksvb1729
 - 👀 I’m interested in data science and analytics to support my corporate goals
 - 🌱 I’m currently learning data science via various projects and hands on training
 - 💞️ I’m looking to collaborate on automation, ML, Fintech projects, etc
