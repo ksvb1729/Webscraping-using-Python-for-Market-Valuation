@@ -2,8 +2,10 @@
 #This is a python code that is used to webscrape details from a vendor such as flipkart. 
 #The code works for Flipkart and did not work for Amazon.
 #Idea behind the code was to find the actual realtime Ecommerce market valuation for a specific query
+#The number of reviews give a minimum idea about the people who bought the product, which can be multipled with the price to find the guaranteed sales figure.
+#Post this, with a thumbrule to identify what % of the actual buyers are reviwers we can guestimmate the overall sales turnover
 
-#LOGIC
+#CODE LOGIC
 #Items webscraped are product name, product price, number of reviews based on padding and XPath values
 #The number of pages for the search query is given in a loop to webscrape all the queries
 #The output gets saved as an excel file for furthe analysis
